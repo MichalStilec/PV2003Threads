@@ -1,0 +1,15 @@
+M:\PV 2022-23\PV2003Threads\PV2003Threads\bin\Debug\net6.0\PV2003Threads.exe
+M:\PV 2022-23\PV2003Threads\PV2003Threads\bin\Debug\net6.0\PV2003Threads.deps.json
+M:\PV 2022-23\PV2003Threads\PV2003Threads\bin\Debug\net6.0\PV2003Threads.runtimeconfig.json
+M:\PV 2022-23\PV2003Threads\PV2003Threads\bin\Debug\net6.0\PV2003Threads.dll
+M:\PV 2022-23\PV2003Threads\PV2003Threads\bin\Debug\net6.0\PV2003Threads.pdb
+M:\PV 2022-23\PV2003Threads\PV2003Threads\obj\Debug\net6.0\PV2003Threads.csproj.AssemblyReference.cache
+M:\PV 2022-23\PV2003Threads\PV2003Threads\obj\Debug\net6.0\PV2003Threads.GeneratedMSBuildEditorConfig.editorconfig
+M:\PV 2022-23\PV2003Threads\PV2003Threads\obj\Debug\net6.0\PV2003Threads.AssemblyInfoInputs.cache
+M:\PV 2022-23\PV2003Threads\PV2003Threads\obj\Debug\net6.0\PV2003Threads.AssemblyInfo.cs
+M:\PV 2022-23\PV2003Threads\PV2003Threads\obj\Debug\net6.0\PV2003Threads.csproj.CoreCompileInputs.cache
+M:\PV 2022-23\PV2003Threads\PV2003Threads\obj\Debug\net6.0\PV2003Threads.dll
+M:\PV 2022-23\PV2003Threads\PV2003Threads\obj\Debug\net6.0\refint\PV2003Threads.dll
+M:\PV 2022-23\PV2003Threads\PV2003Threads\obj\Debug\net6.0\PV2003Threads.pdb
+M:\PV 2022-23\PV2003Threads\PV2003Threads\obj\Debug\net6.0\PV2003Threads.genruntimeconfig.cache
+M:\PV 2022-23\PV2003Threads\PV2003Threads\obj\Debug\net6.0\ref\PV2003Threads.dll
